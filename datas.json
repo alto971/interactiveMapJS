@@ -1,0 +1,74 @@
+[
+    {
+      "fabriqueName": "Carcassonne",
+      "lieu" : "302",
+      "formationName" : "Web Dev et web mobile",
+      "status" : "Commencée",
+      "lat" : "43.212161",
+      "long" : "2.353663",
+      "tel" : "0632096792"
+    },
+    {
+      "fabriqueName": "Narbonne",
+      "lieu" : "Etincelle" ,
+      "formationName" : "Web Dev et web mobile",
+      "status" : "Commencée",
+      "lat" : "43.184277",
+      "long" : "3.003078",
+      "tel" : "0632096792"
+    },
+    {
+      "fabriqueName": "Toulouse",
+      "lieu" : "Etincelle" ,
+      "formationName" : "Web Dev et web mobile",
+      "status" : "Commencée",
+      "lat" : "43.600000",
+      "long" : "1.433333",
+      "tel" : "0632096792"
+    },
+    {
+      "fabriqueName": "Auch",
+      "lieu" : "Etincelle" ,
+      "formationName" : "Web Dev et web mobile",
+      "status" : "Commencée",
+      "lat" : "43.650000",
+      "long" : "0.583333",
+      "tel" : "0632096792"
+    },
+    {
+      "fabriqueName": "Cahors",
+      "lieu" : "Etincelle" ,
+      "formationName" : "Web Dev et web mobile",
+      "status" : "Sélections en cours",
+      "lat" : "44.4475229",
+      "long" : "1.441989",
+      "tel" : "0632096792"
+    },
+    {
+      "fabriqueName": "Pamiers",
+      "lieu" : "Etincelle" ,
+      "formationName" : "Web Dev et web mobile",
+      "status" : "Commencée",
+      "lat" : "43.114753",
+      "long" : "1.607953",
+      "tel" : "0632096792"
+    },
+    {
+      "fabriqueName": "Rodez",
+      "lieu" : "Etincelle" ,
+      "formationName" : "Web Dev et web mobile",
+      "status" : "Commencée",
+      "lat" : "44.333333",
+      "long" : "2.566667",
+      "tel" : "0632096792"
+    },
+    {
+      "fabriqueName": "Saint-Gaudens",
+      "lieu" : "Etincelle" ,
+      "formationName" : "Web Dev et web mobile",
+      "status" : "Commencée",
+      "lat" : "43.106895",
+      "long" : "0.723763",
+      "tel" : "0632096792"
+    }
+  ]
