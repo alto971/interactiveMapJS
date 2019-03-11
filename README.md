@@ -6,4 +6,4 @@ Custom Event (JS) is also used
 Ressources: https://leafletjs.com/  
   
 ## License  
-This project is distributed under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).  
+This project is distributed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).  
